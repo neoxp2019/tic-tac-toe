@@ -1,0 +1,11 @@
+#black 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:200px; 
+ 		top: 300px;
+}
