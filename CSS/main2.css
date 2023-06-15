@@ -1,0 +1,121 @@
+#black0 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:300px; 
+ 		top: 300px;
+}
+#black1 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:405px; 
+ 		top: 300px;
+}
+#black2 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:510px; 
+ 		top: 300px;
+}
+#black3 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:300px; 
+ 		top: 405px;
+}
+#black4 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:405px; 
+ 		top: 405px;
+}
+#black5 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:510px; 
+ 		top: 405px;
+}
+#black6 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:300px; 
+ 		top: 510px;
+}
+#black7 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:405px; 
+ 		top: 510px;
+}
+#black8 
+{
+  		width: 100px;
+  		height: 100px;
+  		background-color: rgb(0, 0, 0);
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:510px; 
+ 		top: 510px;
+}
+#StartGameButton
+{
+  		width: 100px;
+  		height: 50px;
+  		/*background-color: rgb(0, 0, 0);*/
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:700px; 
+ 		top: 300px;
+}
+#GameInfoButton
+{
+  		width: 100px;
+  		height: 50px;
+  		/*background-color: rgb(0, 0, 0);*/
+  		border: 1px solid #fff;
+  		box-shadow: 0 0 0 1px #A4A4A4;
+ 		position: absolute; 
+ 		left:700px; 
+ 		top: 355px;
+}
